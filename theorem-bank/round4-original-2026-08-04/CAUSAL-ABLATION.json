@@ -1,0 +1,45 @@
+{
+  "control_ids": [
+    "FC01",
+    "FC02",
+    "FC03",
+    "FC04",
+    "FC14"
+  ],
+  "deepest_generation": 5,
+  "frozen_seed_control_claims": 5,
+  "generation_counts": {
+    "1": 5,
+    "2": 7,
+    "3": 6,
+    "4": 4,
+    "5": 1
+  },
+  "passed": true,
+  "productive_generations": 5,
+  "recursive_only_gain": 18,
+  "recursive_only_ids": [
+    "FC05",
+    "FC06",
+    "FC07",
+    "FC08",
+    "FC09",
+    "FC10",
+    "FC11",
+    "FC12",
+    "FC13",
+    "FC15",
+    "FC16",
+    "FC17",
+    "FC18",
+    "FC19",
+    "FC20",
+    "FC21",
+    "FC22",
+    "FC23"
+  ],
+  "schema": "oracle.fiber-coherence-self-growth.ablation.v1",
+  "seed_claims": 65,
+  "semantic_collisions_with_current_seed": [],
+  "treatment_claims": 23
+}

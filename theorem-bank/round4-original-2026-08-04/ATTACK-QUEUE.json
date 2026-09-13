@@ -1,0 +1,32 @@
+[
+  {
+    "rank": 1,
+    "target": "FC04/FC12",
+    "attack": "Lean-formalize endpoint schemes and the exact #595 hypergraph equivalence.",
+    "why": "This turns realizability into a finite certificate language."
+  },
+  {
+    "rank": 2,
+    "target": "FC06-FC08",
+    "attack": "Formalize the realized-type pullback, coherent-section lower bound, and sandwich.",
+    "why": "These are the exact information-preserving compression inequalities."
+  },
+  {
+    "rank": 3,
+    "target": "FC11",
+    "attack": "Exhaust and classify minimal coherence-frustrated Berge triangles.",
+    "why": "This is the local K4-free fiber constraint."
+  },
+  {
+    "rank": 4,
+    "target": "FC13-FC15",
+    "attack": "External-review the anticomplete finite high-cover civilization and its total sterility.",
+    "why": "It is the strongest new migration theorem."
+  },
+  {
+    "rank": 5,
+    "target": "FC23",
+    "attack": "Build SAT/ILP enumeration of finite fiber-coherence systems.",
+    "why": "This directly attacks the diffuse-coherence side of the new close dichotomy."
+  }
+]

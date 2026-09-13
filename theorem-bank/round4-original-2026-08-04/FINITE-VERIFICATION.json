@@ -1,0 +1,25 @@
+{
+  "assertions": 66166,
+  "berge_cycles_tested": 60,
+  "checked_kernels": [
+    "FC01",
+    "FC02",
+    "FC03",
+    "FC06",
+    "FC07",
+    "FC08",
+    "FC10",
+    "FC11"
+  ],
+  "endpoint_dictionary_checks": 1099,
+  "full_coherent_sections_checked": 21043,
+  "graphs_exhausted": 1099,
+  "matching_quotients_checked": 1099,
+  "max_vertices": 5,
+  "passed": true,
+  "realized_type_hypergraphs_checked": 12347,
+  "representative_assignments_checked": 29419,
+  "schema": "oracle.fiber-coherence.finite-verification.v1",
+  "stable_partitions_checked": 12347,
+  "triangle_core_checks": 1099
+}

@@ -1,0 +1,94 @@
+{
+  "ok": true,
+  "source_script": "theorem-bank/round4-original-2026-08-04/verify_round4.py",
+  "source_script_sha256": "920b63fc459742d47695e152ff8f617e0ebeacc8fa7419e62383927289526452",
+  "invocation": [
+    "python",
+    "-X",
+    "utf8",
+    "-S",
+    "verify_round4.py"
+  ],
+  "source_integrity": {
+    "ok": true,
+    "source_files": 17,
+    "source_records": 23,
+    "original_manifest_entries": 16,
+    "scope": "Source integrity and structure; not independent theorem certification."
+  },
+  "path_adaptations_in_temporary_copy": [
+    {
+      "original_literal": "/mnt/data/ERDOS-595-SELF-GROWTH-THEOREM-CARDS-2026-08-04.jsonl",
+      "dependency": "verification/seed-dependencies/ERDOS-595-SELF-GROWTH-THEOREM-CARDS-2026-08-04.jsonl"
+    },
+    {
+      "original_literal": "/mnt/data/HIGH-GEAR-SELF-GROWTH-ROUND-2-2026-08-04/HIGH-GEAR-THEOREM-CARDS.jsonl",
+      "dependency": "verification/seed-dependencies/HIGH-GEAR-THEOREM-CARDS.jsonl"
+    },
+    {
+      "original_literal": "/mnt/data/RELATIONAL-SELF-GROWTH-ROUND-3-2026-08-04/RELATIONAL-THEOREM-CARDS.jsonl",
+      "dependency": "verification/seed-dependencies/RELATIONAL-THEOREM-CARDS.jsonl"
+    }
+  ],
+  "scope": "Bundled finite/source checks rerun. No global conjecture closure, Lean certificate or novelty claim. Site packages disabled; optional SciPy MILP is not part of this replay.",
+  "result": {
+    "causal_ablation": {
+      "control_claims": 5,
+      "deepest_generation": 5,
+      "productive_generations": 5,
+      "recursive_only_gain": 18,
+      "seed_claims": 65,
+      "treatment_claims": 23
+    },
+    "files": {
+      "ablation_sha256": "20a0a7a7eb43543d4c5c89ad197011875e8d30ea94a54e4502b11859f08ff7a6",
+      "builder_sha256": "f227fd574a59a8b601d38d3b85dc79d0858760e6dafc2cdcf72acffc90560269",
+      "cards_sha256": "5133c4b00a3be612ec9f8a24118465221a10b4108561a7d074136aeb5477966d",
+      "packet_sha256": "11f81b824766ee5a3753f88b3fa7efcab6da8c69e2d4a16cb5a592fe20147674",
+      "verifier_sha256": "a0ceb00a6ab4915831ae8f28f05c6b0b76669f641586bc7944856361112c2f17"
+    },
+    "finite_math": {
+      "assertions": 66166,
+      "berge_cycles_tested": 60,
+      "checked_kernels": [
+        "FC01",
+        "FC02",
+        "FC03",
+        "FC06",
+        "FC07",
+        "FC08",
+        "FC10",
+        "FC11"
+      ],
+      "endpoint_dictionary_checks": 1099,
+      "full_coherent_sections_checked": 21043,
+      "graphs_exhausted": 1099,
+      "matching_quotients_checked": 1099,
+      "max_vertices": 5,
+      "passed": true,
+      "realized_type_hypergraphs_checked": 12347,
+      "representative_assignments_checked": 29419,
+      "schema": "oracle.fiber-coherence.finite-verification.v1",
+      "stable_partitions_checked": 12347,
+      "triangle_core_checks": 1099
+    },
+    "flagship_595_closed": false,
+    "flagship_738_closed": false,
+    "historical_novelty_claimed": false,
+    "hostile": {
+      "authority_self_promotion_blocked": true,
+      "causal_ablation_passed": true,
+      "dependency_order_checked": true,
+      "false_flagship_closure_blocked": true,
+      "invalidated_descendants_including_root": 12,
+      "passed": true,
+      "retracted_root": "FC03",
+      "schema": "oracle.fiber-coherence.hostile-verification.v1",
+      "semantic_duplicates_refused": true,
+      "tamper_detection": true
+    },
+    "lean_verified_claimed": false,
+    "passed": true,
+    "schema": "oracle.fiber-coherence.final-verification.v1"
+  }
+}

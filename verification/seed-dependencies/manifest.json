@@ -1,0 +1,31 @@
+{
+  "scope": "Original seed records required by the round-four dependency checker; historical source authority preserved.",
+  "files": [
+    {
+      "source": {
+        "file": "ERDOS-595-SELF-GROWTH-THEOREM-CARDS-2026-08-04.jsonl"
+      },
+      "file": "ERDOS-595-SELF-GROWTH-THEOREM-CARDS-2026-08-04.jsonl",
+      "bytes": 17136,
+      "sha256": "c362b5bfb03eac31411e66053e1ac15392de387d134a4946535a26ea61724ba9"
+    },
+    {
+      "source": {
+        "archive": "HIGH-GEAR-SELF-GROWTH-ROUND-2-2026-08-04.zip",
+        "member": "HIGH-GEAR-SELF-GROWTH-ROUND-2-2026-08-04/HIGH-GEAR-THEOREM-CARDS.jsonl"
+      },
+      "file": "HIGH-GEAR-THEOREM-CARDS.jsonl",
+      "bytes": 26813,
+      "sha256": "f260f31ca259acd532fddc4005beea86de1a524801f143832a6e217e85272cc2"
+    },
+    {
+      "source": {
+        "archive": "RELATIONAL-SELF-GROWTH-ROUND-3-2026-08-04.zip",
+        "member": "RELATIONAL-SELF-GROWTH-ROUND-3-2026-08-04/RELATIONAL-THEOREM-CARDS.jsonl"
+      },
+      "file": "RELATIONAL-THEOREM-CARDS.jsonl",
+      "bytes": 27081,
+      "sha256": "4a0899a8220e5ca4539d8ebeae42943c9e775b78833455e5afcde785e65b5b38"
+    }
+  ]
+}

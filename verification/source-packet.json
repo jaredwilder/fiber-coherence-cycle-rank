@@ -1,0 +1,126 @@
+{
+  "source_archive": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04.zip",
+  "source_archive_bytes": 59184,
+  "source_archive_sha256": "43149b8861ea800a96c832ef3c58ab0a73af8ac6784d9606f0a8d6f655eabd53",
+  "packet_path": "theorem-bank/round4-original-2026-08-04",
+  "records_path": "theorem-bank/round4-original-2026-08-04/FIBER-COHERENCE-THEOREM-CARDS.jsonl",
+  "record_count": 23,
+  "status_counts": {
+    "UNCONDITIONAL_ELEMENTARY": 9,
+    "UNCONDITIONAL_DEFINITIONAL": 1,
+    "UNCONDITIONAL_CHARACTERIZATION": 1,
+    "UNCONDITIONAL_WITH_STANDARD_COMPACTNESS": 4,
+    "UNCONDITIONAL_COROLLARY": 1,
+    "UNCONDITIONAL_EQUIVALENCE": 1,
+    "UNCONDITIONAL_DICHOTOMY": 2,
+    "CONDITIONAL_ON_EXISTENCE_OF_LEAST_WITNESS": 1,
+    "UNPROVED_CHECKABLE_TARGET": 2,
+    "UNCONDITIONAL_NEGATIVE_THEOREM": 1
+  },
+  "original_manifest_entries_verified": 16,
+  "scope": "The round-four source contains 23 generated cards, including two explicitly unproved targets. Its recorded Lean and novelty statuses remain unchanged. The original verifier references three external seed files at /mnt/data paths; recovered seed dependencies and a portable replay are supplied separately.",
+  "files": [
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/ATTACK-QUEUE.json",
+      "public_path": "theorem-bank/round4-original-2026-08-04/ATTACK-QUEUE.json",
+      "bytes": 1066,
+      "sha256": "3c3be783db0ec10de125241b42088855c741e9cd34d0eb64c59bb7e6738f30ec"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/CAUSAL-ABLATION.json",
+      "public_path": "theorem-bank/round4-original-2026-08-04/CAUSAL-ABLATION.json",
+      "bytes": 717,
+      "sha256": "20a0a7a7eb43543d4c5c89ad197011875e8d30ea94a54e4502b11859f08ff7a6"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/FIBER-COHERENCE-SELF-GROWTH-REPORT.md",
+      "public_path": "theorem-bank/round4-original-2026-08-04/FIBER-COHERENCE-SELF-GROWTH-REPORT.md",
+      "bytes": 4007,
+      "sha256": "8adf10ccbcc43a639bb3d2fedba3be8063391dc215afb2f0535f90663b2648f7"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/FIBER-COHERENCE-THEOREM-CARDS.jsonl",
+      "public_path": "theorem-bank/round4-original-2026-08-04/FIBER-COHERENCE-THEOREM-CARDS.jsonl",
+      "bytes": 27945,
+      "sha256": "5133c4b00a3be612ec9f8a24118465221a10b4108561a7d074136aeb5477966d"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/FIBER-COHERENCE-THEOREM-PACKET.md",
+      "public_path": "theorem-bank/round4-original-2026-08-04/FIBER-COHERENCE-THEOREM-PACKET.md",
+      "bytes": 29015,
+      "sha256": "11f81b824766ee5a3753f88b3fa7efcab6da8c69e2d4a16cb5a592fe20147674"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/FINAL-VERIFICATION.json",
+      "public_path": "theorem-bank/round4-original-2026-08-04/FINAL-VERIFICATION.json",
+      "bytes": 1952,
+      "sha256": "30371d81cf42cf79ff6410e0f904e01b5b4bfb8e08e3899c6398cc864d3094e6"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/FINITE-VERIFICATION.json",
+      "public_path": "theorem-bank/round4-original-2026-08-04/FINITE-VERIFICATION.json",
+      "bytes": 588,
+      "sha256": "98a5102a29fb4de86efa623e607d09a448eddb5c5efebc4608f5358d7f3f39be"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/HOSTILE-VERIFICATION.json",
+      "public_path": "theorem-bank/round4-original-2026-08-04/HOSTILE-VERIFICATION.json",
+      "bytes": 382,
+      "sha256": "57bdc78c9efd76a1c3913f1c2eae201280baac4c149a0c2f8b85294b202e598c"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/LEAN-MISSIONS.jsonl",
+      "public_path": "theorem-bank/round4-original-2026-08-04/LEAN-MISSIONS.jsonl",
+      "bytes": 11522,
+      "sha256": "0286f6c303ac6cd1890cb7de61f9688935b6576a1ec61dd3370ee0797a16ec75"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/MANIFEST.json",
+      "public_path": "theorem-bank/round4-original-2026-08-04/MANIFEST.json",
+      "bytes": 1715,
+      "sha256": "2fcb6604c6a271f3c9b1ad07661d85ed46aac81d9764e85f021cf200bb44f95d"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/NOVELTY-MISSIONS.jsonl",
+      "public_path": "theorem-bank/round4-original-2026-08-04/NOVELTY-MISSIONS.jsonl",
+      "bytes": 12605,
+      "sha256": "47fa47bee0c9064689981cb5e03dbc2050e31fcafd922d7dfcb02201c94a436a"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/PROVE-SYSTEM-RECEIPT.txt",
+      "public_path": "theorem-bank/round4-original-2026-08-04/PROVE-SYSTEM-RECEIPT.txt",
+      "bytes": 1985,
+      "sha256": "0a85229559b1a029a85e212809dc432f7a107161205831c501cfee447353d884"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/RUNBOOK.md",
+      "public_path": "theorem-bank/round4-original-2026-08-04/RUNBOOK.md",
+      "bytes": 626,
+      "sha256": "841593239474bb5d2afba5f7f65d05b60c913b07c08060b900df56e9970ba4d2"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/THEOREM-SPECS.json",
+      "public_path": "theorem-bank/round4-original-2026-08-04/THEOREM-SPECS.json",
+      "bytes": 28924,
+      "sha256": "1f9b326e58e4aa57106a23dfd6fc6557bca8c04369bf2aff2d5e93eabdd08060"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/build_round4.py",
+      "public_path": "theorem-bank/round4-original-2026-08-04/build_round4.py",
+      "bytes": 34596,
+      "sha256": "f227fd574a59a8b601d38d3b85dc79d0858760e6dafc2cdcf72acffc90560269"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/prove_system.sh",
+      "public_path": "theorem-bank/round4-original-2026-08-04/prove_system.sh",
+      "bytes": 497,
+      "sha256": "24b99800405a96d59a4602ed510343ea6024e6345caa24084842a7eea199e379"
+    },
+    {
+      "source_member": "FIBER-COHERENCE-SELF-GROWTH-ROUND-4-2026-08-04/verify_round4.py",
+      "public_path": "theorem-bank/round4-original-2026-08-04/verify_round4.py",
+      "bytes": 13604,
+      "sha256": "920b63fc459742d47695e152ff8f617e0ebeacc8fa7419e62383927289526452"
+    }
+  ]
+}
